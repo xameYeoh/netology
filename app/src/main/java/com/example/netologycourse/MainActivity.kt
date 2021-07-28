@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         var age: Int = 37
         var height: Double = 172.2
         var text: String = "name: $name surname: $surname age: $age height: $height"
-        var textView :TextView = findViewById(R.id.helloText)
+        var textView :TextView = findViewById(R.id.output)
 
         textView.text = text
 

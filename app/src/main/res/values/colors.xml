@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="neo_primary">#4bd0a0</color>
+    <color name="neo_light">#83ffd1</color>
+    <color name="neo_dark">#009e71</color>
+    <color name="pro_primary">#0066ff</color>
+    <color name="pro_light">#6b93ff</color>
+    <color name="pro_dark">#003dcb</color>
+    <color name="top_primary">#5d00f5</color>
+    <color name="top_light">#9a47ff</color>
+    <color name="top_dark">#0000c1</color>
+    <color name="biz_primary">#eb236b</color>
+    <color name="biz_light">#ff6399</color>
+    <color name="biz_dark">#b20041</color>
+    
+    <color name="black">#000000</color>
+</resources>
